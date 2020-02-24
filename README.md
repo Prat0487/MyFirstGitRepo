@@ -1,2 +1,2 @@
 # MyFirstGitRepo
-MyFirstGitRepo My
+MyFirstGitRepo My my first commit
